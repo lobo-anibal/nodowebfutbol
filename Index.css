@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+ #ver{
+    background-color: aqua;
+ }
+.bg-index{
+    background-image: url('/img/fondo.jpg');
+    background-size: cover;
+    background-position: center; 
+}
+.team{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card1{
+    width: 30%;
+    margin: 10px;
+}
